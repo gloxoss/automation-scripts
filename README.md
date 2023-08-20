@@ -86,13 +86,3 @@ You can contribute by adding new scripts, improving current scripts or Documenta
 * Option 2: Go to [PEP8 online](http://pep8online.com/) , paste your code and check the format it correctly
 
 **It's better to go with option 2 always**
-
-**Typo fixed/ minor change in docs not marked as contribution. If you're not aware of process kindly raise a query in formal manner :)**
-
-<h1 align=center> Wonderful Contributors ✨ </h1>
-
-Thanks goes to these wonderful people 😊
-
-<a href="https://github.com/python-geeks/Automation-scripts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=python-geeks/Automation-scripts" />
-</a>
