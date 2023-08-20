@@ -1,21 +1,5 @@
 <h1 align=center> Automation-scripts </h1>
 
-**Do you know anything that can help all to easy our tough life than tell that secret to us and help us to become lazy like Panda**
-
-> **You can check current scripts of this REPO [here](https://github.com/python-geeks/Automation-scripts/blob/main/SCRIPTS.md)**
-
-<p align="center">
-  <a href="https://github.com/python-geeks/Automation-scripts/issues"><img src="https://img.shields.io/github/issues/python-geeks/Automation-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/python-geeks/Automation-scripts/fork"><img src="https://img.shields.io/github/forks/python-geeks/Automation-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/github/stars/python-geeks/Automation-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/python-geeks/Automation-scripts/blob/main/LICENSE"><img src="https://img.shields.io/github/license/python-geeks/Automation-scripts.svg?style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" /></a>&nbsp;&nbsp;
-</p>
 
 # How to start
 
